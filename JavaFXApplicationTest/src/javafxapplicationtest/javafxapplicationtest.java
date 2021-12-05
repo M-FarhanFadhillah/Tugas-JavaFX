@@ -1,3 +1,7 @@
+// Nama  : M. Farhan Fadhillah
+// NPM   : 2017051068
+// Kelas : C
+
 package javafxapplicationtest;
 
 import javafx.application.Application;
